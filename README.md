@@ -2,7 +2,7 @@
 
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
 
-<img width="30%" align="right" src="https://fontmeme.com/permalink/200806/4004f3f340f416a0cfa66c84fa905227.png">
+<img width="30%" align="right" src="https://github.com/TarcisioValentim/TarcisioValentim/blob/master/video.mp4">
 
 ### Hi there 👋 [My personal README is being built]
 - 🔭 I am currently in the 4th period of system analysis and development at SENAI faculty;
