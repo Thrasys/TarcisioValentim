@@ -16,5 +16,5 @@
 <br/> [![Gmail Badge](https://img.shields.io/badge/-Tarcisio.word@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Tarcisio.word@gmail.com)](mailto:Tarcisio.word@gmail.com)
 <br/>![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftarcisio_valent)
 ------------------------------------------------------------------------
-powered by
-<img src="assets/logo1.png">
+
+<img src="assets/logo1.png">powered by
