@@ -17,4 +17,4 @@
 <br/>![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftarcisio_valent)
 ------------------------------------------------------------------------
 
-<img width="80%" align="right" src="assets/logo1.png">powered by
+<img width="50%" align="right" src="assets/logo1.png">powered by
