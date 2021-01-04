@@ -5,7 +5,7 @@
 <img width="30%" align="right" src="https://fontmeme.com/permalink/200806/4004f3f340f416a0cfa66c84fa905227.png">
 
 ### Hi there 👋 [My personal README is being built]
-- 🔭 I am currently in the 4th period of system analysis and development at SENAI faculty;
+- 🔭 I am currently a technology student, I am in the area of ​​systems analysis and development;
 - 💜 I'm looking for an internship in systems development;
 - 😊 I also have availability for travel and I accept job offer in the region of floripa / sc.;
 - 🌱 I’m currently learning about Open Source Program Office, Public Cloud and SW Development;
