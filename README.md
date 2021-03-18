@@ -1,4 +1,5 @@
-#   <img width="30%" align="right" src="https://fontmeme.com/permalink/200806/4004f3f340f416a0cfa66c84fa905227.png">                 <h1 align="center"> Hi, my name is Tarcisio Valentim </h1>
+#   <h1 align="center"> Hi, my name is Tarcisio Valentim </h1>
+
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
 
 
@@ -28,7 +29,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> </p>
 
-------------------------------------------------------------------------
+---------------------------------<img width="30%" align="right" src="https://fontmeme.com/permalink/200806/4004f3f340f416a0cfa66c84fa905227.png">                 ---------------------------------------
 
 <br/> :email: &nbsp; Entre em contato comigo:
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-TarcisioValentim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiovalentim/)](https://www.linkedin.com/in/tarcisiovalentim/) 
