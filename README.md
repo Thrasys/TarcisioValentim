@@ -1,10 +1,14 @@
-#   <h1 align="center"> Hi, my name is Tarcisio Valentim </h1>
+<h2 align="center"> 
+  👋 Hi, my name is Tarcisio Valentim </strong>.
+</h2>
 
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
 
 
-
-### Hi there 👋 [My personal README is being built]
+<h3 align="center"> 
+ Hi there 👋 [My personal README is being built]
+ </h3>
+ 
 - 🔭 I am currently a technology student, I am in the area of ​​systems analysis and development;
 - 💜 I'm looking for an internship in systems development;
 - 😊 I also have availability for travel and I accept job offer in the region of floripa / sc.;
