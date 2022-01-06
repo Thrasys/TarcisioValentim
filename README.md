@@ -16,6 +16,14 @@
 ------------------------------------------------------------------------
 
 
+<h2 align="center"> 🐱‍👤 My metrics on Github 🐱‍👤</h2>
+
+<p align="center">
+  <a href="https://github.com/devtvas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtvas&theme=dracula&hide_langs_below=1" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -31,6 +39,11 @@
 
 ---------------------------------<img width="30%" align="right" src="https://fontmeme.com/permalink/200806/4004f3f340f416a0cfa66c84fa905227.png">                 ---------------------------------------
 
-<br/> :email: &nbsp; Entre em contato comigo:
+<p align="center">
+  💌 You can find me around here: ⤵️
+</p>
+
+<p align="center">
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-TarcisioValentim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiovalentim/)](https://www.linkedin.com/in/tarcisiovalentim/) 
 <br/> [![Gmail Badge](https://img.shields.io/badge/-Tarcisio.word@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Tarcisio.word@gmail.com)](mailto:Tarcisio.word@gmail.com)
+  </p>
