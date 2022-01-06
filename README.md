@@ -37,13 +37,17 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> </p>
 
----------------------------------<img width="30%" align="right" src="https://fontmeme.com/permalink/200806/4004f3f340f416a0cfa66c84fa905227.png">                 ---------------------------------------
-
 <p align="center">
   💌 You can find me around here: ⤵️
 </p>
 
 <p align="center">
-<br/> [![Linkedin Badge](https://img.shields.io/badge/-TarcisioValentim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiovalentim/)](https://www.linkedin.com/in/tarcisiovalentim/) 
-<br/> [![Gmail Badge](https://img.shields.io/badge/-Tarcisio.word@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Tarcisio.word@gmail.com)](mailto:Tarcisio.word@gmail.com)
+<a href="mailto:Tarcisio.word@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+<a href="https://www.linkedin.com/in/devtvas/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+<a href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   </p>
