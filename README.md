@@ -2,8 +2,9 @@
   👋 Hi, my name is Tarcisio Valentim </strong>.
 </h2>
 
+<h3 align="center"> 
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
-
+</h3>
  
 - 🔭 I am currently a technology student, I am in the area of ​​systems analysis and development;
 - 💜 I'm looking for an internship in systems development;
