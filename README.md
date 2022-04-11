@@ -18,6 +18,11 @@
 
 
 <h2 align="center"> 📈 My metrics on Github 📉 </h2>
+<p align="center">
+  <a href="https://github.com/devtvas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtvas&theme=dracula&hide_langs_below=1" />
+  </a>
+</p>
 
 
 
