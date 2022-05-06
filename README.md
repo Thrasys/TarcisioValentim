@@ -16,7 +16,7 @@
 <h2 align="center"> 📈 My metrics on Github 📉 </h2>
 <p align="center">
   <a href="https://github.com/devtvas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtvas&theme=dracula&hide_langs_below=1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtvas&theme=dracula&card_width=500&langs_count=10&custom_title=DEVTVAS" />
   </a>
 </p>
 
