@@ -1,6 +1,33 @@
 <h2 align="center"> 
-  👋 Hi, my name is Tarcisio Valentim </strong>.
+  👋 Hi, my name is Tarcisio Valentim</strong>.
 </h2>
+
+<p style="text-align:center;">
+  <img src="assets/git.png"  height="200em" width="600em" /> 
+</p>
+
+<p align="center">
+  💌 You can find me around here: ⤵️
+</p>
+
+<!-- <p align="center">  -->
+<div style="display: flex;
+  justify-content: center;
+  align-items: center;
+  ">
+
+<p href="mailto:Tarcisio.word@gmail.com" alt="Gmail" 
+style="padding: 10px 5px;">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
+</p>
+
+<p href="https://www.linkedin.com/in/devtvas/" alt="Linkedin"style="padding: 10px 5px;">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></p>
+
+<p href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp"style="padding: 10px 5px;">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></p>
+
+</div>
 
 <h3 align="center"> 
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
@@ -35,17 +62,4 @@
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 </a> </p>
-<p align="center">
-  💌 You can find me around here: ⤵️
-</p>
 
-<p align="center">
-<a href="mailto:Tarcisio.word@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-<a href="https://www.linkedin.com/in/devtvas/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-<a href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  </p>
