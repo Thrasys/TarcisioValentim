@@ -2,9 +2,9 @@
   👋 Hi, my name is Tarcisio Valentim</strong>.
 </h2>
 
-<p align="center"> 
+<div align="center"> 
   <img src="assets/git.png"  height="200em" width="600em" /> 
-</p>
+</div>
 
 <p align="center">
   💌 You can find me around here: ⤵️
