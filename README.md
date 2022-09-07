@@ -2,7 +2,7 @@
   👋 Hi, my name is Tarcisio Valentim</strong>.
 </h2>
 
-<p style="text-align:center;">
+<p align="center"> 
   <img src="assets/git.png"  height="200em" width="600em" /> 
 </p>
 
