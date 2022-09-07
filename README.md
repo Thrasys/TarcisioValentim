@@ -16,16 +16,16 @@
   align-items: center;
   ">
 
-<p href="mailto:Tarcisio.word@gmail.com" alt="Gmail" 
+<div href="mailto:Tarcisio.word@gmail.com" alt="Gmail" 
 style="padding: 10px 5px;">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
-</p>
+</div>
 
-<p href="https://www.linkedin.com/in/devtvas/" alt="Linkedin"style="padding: 10px 5px;">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></p>
+<div href="https://www.linkedin.com/in/devtvas/" alt="Linkedin"style="padding: 10px 5px;">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></div>
 
-<p href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp"style="padding: 10px 5px;">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></p>
+<div href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp"style="padding: 10px 5px;">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></div>
 
 </div>
 
