@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center"> 
-  <img src="assets/git.png"  height="200em" width="600em" /> 
+  <img src="assets/git.png"  style="height:20em; width:100em;" /> 
 </div>
 
 <p align="center">
