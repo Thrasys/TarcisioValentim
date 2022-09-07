@@ -10,24 +10,26 @@
   💌 You can find me around here: ⤵️
 </p>
 
-<!-- <p align="center">  -->
-<div style="display: flex;
+<!-- <p display="flex"> -->
+<div style="
+  display: flex;
   justify-content: center;
-  align-items: center;
   ">
 
-<div href="mailto:Tarcisio.word@gmail.com" alt="Gmail" 
-style="padding: 10px 5px;">
+<a href="mailto:Tarcisio.word@gmail.com" alt="Gmail" style="padding: 10px 5px;">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
+</a>
+
+<a href="https://www.linkedin.com/in/devtvas/" alt="Linkedin" style="padding: 10px 5px;">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp" style="padding: 10px 5px;">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
+</a>
+
 </div>
-
-<div href="https://www.linkedin.com/in/devtvas/" alt="Linkedin"style="padding: 10px 5px;">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></div>
-
-<div href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp"style="padding: 10px 5px;">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></div>
-
-</div>
+<!-- </p> -->
 
 <h3 align="center"> 
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
