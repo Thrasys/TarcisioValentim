@@ -1,3 +1,34 @@
+<style type="text/css">
+        .divs{
+            /* background-color: darkcyan; */
+            display: flex;
+            /* display: block; */
+            /* flex: 1; */
+            /* background-repeat: no-repeat; */
+            /* border: 1px solid #000; */
+            /* box-sizing: content-box;  */
+            /* box-sizing: border-box; */
+            /* column-width: 100px; */
+            /* columns: 100px 3; */
+            /* grid-row-end: span 3; */
+            /* justify-content: center; */
+            justify-content: space-evenly;
+            /* justify-content: center; */
+            /* row-gap: 50px 2; */
+            /* column-gap: 140px 3; */
+            /* align-content: center; */
+            /* margin: 10 auto; */
+            /* width: 600px; */
+            /* height: 25px; */
+            /* top: 10px; */
+            /* position: ABSOLUTE; */
+        }
+        .social {
+            padding: 5px 5px;
+        }
+        
+</style>
+
 <h2 align="center"> 
   👋 Hi, my name is Tarcisio Valentim</strong>.
 </h2>
@@ -10,26 +41,21 @@
   💌 You can find me around here: ⤵️
 </p>
 
-<!-- <p display="flex"> -->
-<div style="
-  display: flex;
-  justify-content: center;
-  ">
+<div class="divs">
 
-<a href="mailto:Tarcisio.word@gmail.com" alt="Gmail" style="padding: 10px 5px;">
+<a class="social" href="mailto:Tarcisio.word@gmail.com" alt="Gmail" >
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
 </a>
 
-<a href="https://www.linkedin.com/in/devtvas/" alt="Linkedin" style="padding: 10px 5px;">
+<a class="social" href="https://www.linkedin.com/in/devtvas/" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp" style="padding: 10px 5px;">
+<a class="social" href="https://api.whatsapp.com/send?phone=5562997004940" alt="WhatsApp" >
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
 </a>
 
 </div>
-<!-- </p> -->
 
 <h3 align="center"> 
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
