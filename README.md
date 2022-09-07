@@ -1,31 +1,4 @@
-<style type="text/css">
-        .divs{
-            /* background-color: darkcyan; */
-            display: flex;
-            /* display: block; */
-            /* flex: 1; */
-            /* background-repeat: no-repeat; */
-            /* border: 1px solid #000; */
-            /* box-sizing: content-box;  */
-            /* box-sizing: border-box; */
-            /* column-width: 100px; */
-            /* columns: 100px 3; */
-            /* grid-row-end: span 3; */
-            /* justify-content: center; */
-            justify-content: space-evenly;
-            /* justify-content: center; */
-            /* row-gap: 50px 2; */
-            /* column-gap: 140px 3; */
-            /* align-content: center; */
-            /* margin: 10 auto; */
-            /* width: 600px; */
-            /* height: 25px; */
-            /* top: 10px; */
-            /* position: ABSOLUTE; */
-        }
-        .social {
-            padding: 5px 5px;
-        }
+
         
 </style>
 
@@ -41,7 +14,7 @@
   💌 You can find me around here: ⤵️
 </p>
 
-<div class="divs">
+<div class="divs" style="display:flex; justify-content:space-evenly;">
 
 <a class="social" href="mailto:Tarcisio.word@gmail.com" alt="Gmail" >
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
