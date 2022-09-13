@@ -60,4 +60,8 @@
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 </a> </p>
+</br>
 
+<p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/devtvas/count.svg" />
+</p>
