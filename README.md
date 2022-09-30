@@ -31,11 +31,9 @@
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
 </h3>
  
-- 🔭 I am currently a technology student, I am in the area of ​​systems analysis and development;
-- 💜 I'm looking for an internship in systems development;
-- 😊 I also have availability for travel and I accept job offer in the region of floripa / sc.;
-- 🌱 I’m currently learning about Open Source Program Office, Public Cloud and SW Development;
-- 💬   About me: I am creative, motivated and fascinated by technology and innovation. I am always looking for knowledge that allows me to expand professionally. I can get solutions to problems and perceive business opportunities. My interpersonal skills and diverse knowledge are my main differentials, I like to learn new things and travel as a family.
+- 🔭 I am currently a mobile developer, I am in the area of ​​systems analysis and development;
+- 🌱 I’m currently learning about design patterns, Data structure, cloud, Docker containers;;
+- 💬 About me: I am creative, driven, and fascinated by technology and innovation. I am always looking for continuous improvement. I can get solutions to problems and realize business opportunities. My interpersonal skills and diverse knowledge are my key differentiators, I enjoy reading, long trips, and learning new things.
 
 
 <h2 align="center"> 📈 My metrics on Github 📉 </h2>
