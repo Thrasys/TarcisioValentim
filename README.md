@@ -31,7 +31,7 @@
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
 </h3>
  
-- 🔭 I am currently a mobile developer, I am in the area of ​​systems analysis and development;
+- 🔭 I am currently a software developer, working with systems analysis and development;
 - 🌱 I’m currently learning about design patterns, Data structure, cloud, Docker containers;;
 - 💬 About me: I am creative, driven, and fascinated by technology and innovation. I am always looking for continuous improvement. I can get solutions to problems and realize business opportunities. My interpersonal skills and diverse knowledge are my key differentiators, I enjoy reading, long trips, and learning new things.
 
